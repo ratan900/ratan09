@@ -68,6 +68,6 @@ res.render("post",{
   }
 });
 });
-app.listen(3000, function() {
-  console.log("Server started on port 3000");
+app.listen(7979, function() {
+  console.log("http://localhost:7979");
 });
